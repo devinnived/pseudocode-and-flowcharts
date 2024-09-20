@@ -1,0 +1,25 @@
+# Requirements
+
+Allow a user to input a score and print a letter grade based on the score. The ranges are as follows:
+100 - 76 A
+75 - 51  B
+50 - 26  C
+25 - 0   D
+
+Design an algorithm and flowchart to grade each score.
+
+
+Start
+    Accept a number from the user.
+    IF number is greater than or equal to 76 and less than or equal to 100.
+        Print A 
+    ElSE
+        IF number is greater than or equal to 51 and less than or equal to 75.
+            Print B
+        ElSE
+            IF number is greater than or equal to 26 and less than or equal to 50.
+                Print C
+            ElSE
+                IF number is greater than or equal to 0 and less than or equal to 25.
+                    Print D
+End

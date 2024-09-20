@@ -1,0 +1,17 @@
+# Requirements
+
+Design an algorithm and flowchart to show a user registering for a website and sending a welcome email 
+
+It should print an error if the user is already registered.
+
+
+START
+    User inputs email and password.
+    IF user has an account.
+        Print "You already have an account."
+    ELSE
+        Save user information.
+        Send Welcome Email.
+        Print "Thank you for signing up. You will receive a welcome email from us."
+END
+    

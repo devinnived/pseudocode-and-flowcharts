@@ -1,0 +1,15 @@
+# Requirements
+
+Allow a user to input two numbers, add them together and print the total.
+
+Design an algorithm and flowchart to add two numbers.
+
+
+
+
+Start
+    Accept a first number.
+    Accept a second number.
+    Add the two numbers together.
+    Print the total.
+End

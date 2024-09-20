@@ -1,0 +1,15 @@
+# Requirements
+
+Allow a user to input a number and print if that number is odd or even.
+
+Design an algorithm and flowchart to determine if a number is odd or even.
+
+
+Start
+    Allow a user to input a number.
+    Can the number be divided by 2 without any remainder.
+    YES
+        Print even.
+    NO
+        Print odd.
+End

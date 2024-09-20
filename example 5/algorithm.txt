@@ -1,0 +1,19 @@
+# Requirements
+
+Allow a user to enter 30 numbers and calculate the average.
+
+Design an algorithm and flowchart to accept 30 numbers and calculate the average.
+
+
+START
+    Create counter with default value 0
+    Create sum with default value 0
+    WHILE counter < 30
+        Accept a number from the user
+        Add that number to sum
+        Add 1 to counter
+    END WHILE
+    Divide sum / 30
+    Print average
+END
+    

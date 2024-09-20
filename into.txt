@@ -1,0 +1,14 @@
+# What are algorithms?
+
+* Procedure used to solve a problem or perform a calculation.
+
+# What is pseudocode?
+
+* A simple way of writing programming code in english.
+* Used by both technical and non-technical persons.
+* Done before any coding.
+
+
+What is a flowchat?
+
+* A diagram showing the sequence of actions for things involved in a complex system.
